@@ -1,0 +1,5 @@
+﻿  FinalsExam_u2019341.cpp
+C:\Users\CHIEF\OneDrive\Desktop\FinalsExam_u2019341\FinalsExam_u2019341\FinalsExam_u2019341.cpp(296,7): warning C4101: 'temp': unreferenced local variable
+C:\Users\CHIEF\OneDrive\Desktop\FinalsExam_u2019341\FinalsExam_u2019341\FinalsExam_u2019341.cpp(367,7): warning C4101: 'temp': unreferenced local variable
+C:\Users\CHIEF\OneDrive\Desktop\FinalsExam_u2019341\FinalsExam_u2019341\FinalsExam_u2019341.cpp(266): warning C4715: 'numbers': not all control paths return a value
+  FinalsExam_u2019341.vcxproj -> C:\Users\CHIEF\OneDrive\Desktop\FinalsExam_u2019341\Debug\FinalsExam_u2019341.exe
